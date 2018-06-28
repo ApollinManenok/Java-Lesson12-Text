@@ -9,19 +9,19 @@
     {
       "name": "Tim",
       "surname": "Berners-Lee",
-      "birth": "8.6.1955",
+      "birth": "8-6-1955",
       "status": "ill"
     },
     {
       "name": "Louis",
       "surname": "Armstrong",
-      "birth": "4.8.1901",
+      "birth": "4-8-1901",
       "status": "healthy"
     },
     {
       "name": "Charles",
       "surname": "Chaplin",
-      "birth": "16.04.1889",
+      "birth": "16-04-1889",
       "status": "ill"
     }
   ]
